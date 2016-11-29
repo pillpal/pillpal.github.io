@@ -1,0 +1,26 @@
+# Site settings
+title: Pillp.al
+email: hello@pillp.al
+url: http://www.pilp.al
+description: "Pillp.al is a medicine adherence system that empowers and encourages TB sufferers to stick to their treatment."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: Digitalmob Industries
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com
+  - title: facebook
+    url:
+  - title: github
+    url: https://github.com/
+
+# Build settings
+markdown: kramdown
+permalink: pretty
