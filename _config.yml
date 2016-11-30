@@ -1,8 +1,8 @@
 # Site settings
-title: Pillp.al
+title: Pillpal
 email: hello@pillp.al
 url: http://www.pilp.al
-description: "Pillp.al is a medicine adherence system that empowers and encourages TB sufferers to stick to their treatment."
+description: "Pillpal is a medicine adherence system that empowers and encourages TB sufferers to stick to their treatment."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
